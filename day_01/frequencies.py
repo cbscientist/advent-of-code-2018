@@ -1,11 +1,8 @@
-#!/usr/bin/env python
 """
 Advent of Code 2018
 Day 1
 https://adventofcode.com/2018/day/1
 """
-
-import argparse
 
 
 def getFrequenciesFromFile(frequency_changes_file):
